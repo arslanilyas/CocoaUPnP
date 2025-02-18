@@ -30,5 +30,4 @@ Pod::Spec.new do |s|
   s.dependency 'AFNetworking/Reachability', '~> 4'
   s.dependency 'AFNetworking/Security', '~> 4'
   s.dependency 'AFNetworking/Serialization', '~> 4'
-  s.dependency 'GCDWebServer', '~> 3'
 end
